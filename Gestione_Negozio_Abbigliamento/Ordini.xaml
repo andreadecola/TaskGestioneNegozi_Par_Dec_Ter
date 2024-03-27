@@ -1,0 +1,19 @@
+﻿<Window x:Class="Gestione_Negozio_Abbigliamento.Ordini"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestione_Negozio_Abbigliamento"
+        mc:Ignorable="d"
+        Title="Ordini" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="14,51,0,0" Width="100">
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" >Menu</Label>
+            <Button x:Name="btnUtentepagOrdini" Click="btnUtentepagOrdini_Click">Utente</Button>
+            <Button x:Name="btnProdottipagOrdini" Click="btnProdottipagOrdini_Click" >Prodotti</Button>
+            <Button x:Name="btnHomePagepagOrdini" Click="btnHomePagepagOrdini_Click" >HomePage</Button>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

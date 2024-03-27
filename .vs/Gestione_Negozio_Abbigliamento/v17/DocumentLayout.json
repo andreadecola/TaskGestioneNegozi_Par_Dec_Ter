@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\models\\taskgestionenegozioabbigliamentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\models\\taskgestionenegozioabbigliamentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\models\\ordineprodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\models\\ordineprodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\prodotti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\prodotti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\prodotti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\prodotti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\ordini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\ordini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|c:\\users\\utente\\desktop\\gestione_negozio_abbigliamento\\gestione_negozio_abbigliamento\\ordini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{099F3618-B384-4103-B800-E937FEFE8EFE}|Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj|solutionrelative:gestione_negozio_abbigliamento\\ordini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdineProdotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\OrdineProdotto.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Models\\OrdineProdotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\OrdineProdotto.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Models\\OrdineProdotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:48:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:48:50.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\DAL\\UtenteDAL.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\DAL\\UtenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\DAL\\UtenteDAL.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\DAL\\UtenteDAL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:47:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\DAL\\IDAL.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\DAL\\IDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\DAL\\IDAL.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\DAL\\IDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:46:31.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskGestioneNegozioAbbigliamentoContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\TaskGestioneNegozioAbbigliamentoContext.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Models\\TaskGestioneNegozioAbbigliamentoContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Models\\TaskGestioneNegozioAbbigliamentoContext.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Models\\TaskGestioneNegozioAbbigliamentoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:46:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gestione_Negozio_Abbigliamento",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T16:22:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utente.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\obj\\Debug\\net8.0-windows\\Utente.g.i.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAwwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:08:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prodotti.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Prodotti.xaml.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Prodotti.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Prodotti.xaml.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Prodotti.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:03:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:37:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\MainWindow.xaml",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:37:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prodotti.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Prodotti.xaml",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Prodotti.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Prodotti.xaml",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Prodotti.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T14:01:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ordini.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Ordini.xaml.cs",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Ordini.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Ordini.xaml.cs",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Ordini.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:00:19.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ordini.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Ordini.xaml",
+              "RelativeDocumentMoniker": "Gestione_Negozio_Abbigliamento\\Ordini.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Gestione_Negozio_Abbigliamento\\Gestione_Negozio_Abbigliamento\\Ordini.xaml",
+              "RelativeToolTip": "Gestione_Negozio_Abbigliamento\\Ordini.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:56:14.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
